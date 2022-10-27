@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamza ZENGİN.
+- 👋 Hi, I’m Son_Shinobi.
 - 👀 I’m interested in science and technology.
 - 🌱 I’m currently learning coding.
 - 📧 To contact me:
