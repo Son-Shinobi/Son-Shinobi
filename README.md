@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning coding.
 - 📧 To contact me:
 - E-mail   ---> "hmzz126639@gmail.com"
-- Discord  ---> "Son_Shinobi#4322"
 - LinkedIn ---> "http://www.linkedin.com/in/hamza-z-455330299"
 <!---
 Son-Shinobi/Son-Shinobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
